@@ -1,0 +1,228 @@
+<resources>
+    <string name="app_name">VSL</string>
+    <string name="title_menu1">Voicing your heart through your fingertips.</string>
+    <string name="title_menu2">Let\'s learn sign language with just a smartphone and then socialize with our special friends.</string>
+    <string name="title_menu3">Are you ready to learn?</string>
+    <string name="title_menu32">Let\’s start!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="title_image">Title Image</string>
+    <string name="nama_user">Username</string>
+    <string name="deskripsi">Description</string>
+    <string name="let_see">Let\’s see some news \nfor today</string>
+    <string name="let_learn">Let\’s learn some new \nthings</string>
+    <string name="Detection">Detection</string>
+    <string name="Quiz">Quiz</string>
+    <string name="hai_user">Hai, VSL Buddy</string>
+    <string name="item_title">Item Title</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="password">Password</string>
+    <string name="dont_have_account">Don\'t have an account yet?</string>
+    <string name="email">Email</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="want_to_check_your_understanding">Want to check your understanding?</string>
+    <string name="confirm_passwword">Confirm Passwword</string>
+
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="empty_image_warning">Please insert the image file first.</string>
+
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Description</string>
+
+    <string name="let_check_your_answer">Let\'s upload your photos and we\'ll check them for your level of understanding.</string>
+    <string name="please_answer_correctly">Let\'s Answer!</string>
+    <string name="emote_type">Emote Type</string>
+    <string name="yahhh_jawabanmu_salah">Wellhh... You\'re wrong!</string>
+    <string name="jawab_salah">Don\'t be sad, you can still try it next time.</string>
+    <string name="btn_back">Back</string>
+
+
+    <string-array name="data_name">
+        <item>Gerkatin Solo, Komunitas yang Mengajarkan Bahasa Isyarat untuk Semua Orang</item>
+        <item>Mengenal Komunitas E-Tuli yang Berjuang Kenalkan Bahasa Isyarat</item>
+        <item>BISINDO dan SIBI, Dua Bahasa Isyarat Indonesia untuk Komunitas Tuli</item>
+        <item>Asyiknya Melihat Pelatihan Bahasa Isyarat Bagi Kaum Tunarungu</item>
+        <item>Rayakan Hari Bahasa Isyarat, Anak Tuna Rungu Kumpul di Rudis Gubernur</item>
+        <item>Kala Siswa SLB di Indramayu Belajar Mengaji Melalui Bahasa Isyarat</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>
+            Dulu, bahasa isyarat seolah hanya untuk warga tuna rungu. Seiring perjalanan waktu, mereka yang bukan tuna rungu merasa perlu mempelajari bahasa isyarat. Kata mereka, bahasa isyarat memudahkan komunikasi.
+            \n\n
+            Besarnya minat orang yang bukan tuna rungu untuk belajar bahasa isyarat nampak di salah satu kawasan di arena hari bebas berkendaraan bermotor (CFD) di Jalan Slamet Riyadi, Solo pada Minggu (23/9/2018). Puluhan remaja lelaki dan perempuan yang bisa mendengar, mempraktikkan bahasa isyarat. Mereka bergantian menggerakkan jari-jemari diikuti gerak tubuh dan aneka ekspresi yang menandakan antar mereka tengah berbincang.
+            \n\n
+            Pada hari dan tempat yang sama, warga tuli anggota komunitas Gerakan untuk Kesejahteraan tuna rungu Indonesia atau Gerkatin cabang Solo sedang mengadakan perayaan Hari Bahasa Isyarat Internasional 2018. Temanya adalah “Dengan Bahasa Isyarat Semua Orang Terlibat”. Sesuai tema, banyak orang dari berbagai kalangan terlibat dalam perayaan tersebut baik orang tuna rungu maupun bukan.
+            \n\n
+            Untuk memudahkan komunikasi antar orang tuli dan antara orang tuli dan orang dengar, sejak lebih dari lima tahun lalu, Gerkatin Solo memasyarakatkan bahasa isyarat. Caranya, antara lain, setiap hari Minggu mereka hadir di arena CFD untuk memberi pembelajaran bahasa isyarat secara gratis kepada siapa saja yang berminat. Upaya itu membawa hasil, setiap Minggu selalu ada warga dengar yang datang ke gerai Gerkatin untuk mulai belajar bahasa isyarat.
+            \n\n
+            Mereka yang ingin belajar lebih intens, mereka disarankan belajar di kampus Universitas Sebelas Maret Surakarta dengan membayar. “Jumlah orang yang belajar bahasa isyarat terus bertambah. Yang belajar privat di kampus bisa 6-8 orang,” ujar Ketua Gerkatin Solo Aprilian Bima Purnanta (23) yang merupakan tuna rungu.
+            \n\n
+            Ketika Bima, begitu panggilannya, tengah menceriterakan kegiatan organisasi yang ia pimpin, di belakangnya beberapa anak muda lelaki dan perempuan sedang mencoba belajar bahasa isyarat sambil lesehan. “Pengajarnya kawan saya, teman tuli,” jelasnya.
+        </item>
+        <item>
+            Senyum ramah dengan diiringi bahasa isyarat menjadi sambutan hangat saat Detikcom menyambangi Sekretariat Yayasan Komunitas Tuli Ciayumajakuning (Cirebon, indramayu, Majalengka, dan Kuningan) yang lebih dikenal dengan E-Tuli di Kelurahan Pekalangan, Kecamatan Pekalipan, Kota Cirebon, Rabu (30/8/2017) malam.
+            \n\n
+            Belasan anggotanya saat itu sedang asyik mengobrol. Ya mengobrol dengan tidak bersuara. Hening rasanya. Namun jemarinya terus bergoyang-goyang. Keadaan seketika bisa menjadi ramai ketika salah seorang dari anggota menceritakan kisah lucu menggunakan bahasa isyarat. Suara tawa langsung terdengar.
+            \n\n
+            Tak hanya itu, beberapa anggota lainnya pun terlihat asik berkomunikasi dengan video call. Ibu jari hingga kelingking digerakkan di depan layar ponselnya. Suasana hening namun hangat itu menandakan kuatnya soldiaritas antar anggota, meski berbeda latar belakang.
+            \n\n
+            Pendiri E-Tuli sekaligus Ketua Umum E-Tuli, Mohamad Ibnu (36) mengatakan, sejak 2014 dirinya mulai menggagas wadah bagi orang yang berkebutuhan khusus. Dengan modal bahasa isyarat yang ia kuasai sejak 2013, Ibnu mulai mengajak orang-orang yang berkebutuhan khusus untuk membentuk komunitas.
+            \n\n
+            "Kalau saya memang normal, tak memiliki gangguan pendengaran. Saya hanya ingin mereka ini punya wadah sebagai tempat belajar mereka demi meningkatkan kualitas hidupnya," kata Ibnu.
+        </item>
+        <item>
+            Dikutip dari siaran pers milik Kementerian Komunikasi dan Informatika, Kemenkominfo mendukung penuh upaya untuk mempopulerkan penggunaan bahasa isyarat di Indonesia. Adapun salah satu regulasi yang diambil adalah wajibnya televisi siaran untuk menyediakan tayangan bahasa isyarat di Indonesia dalam program berita. Meskipun belum sepenuhnya berjalan, tetapi hal itu akan dilakukan secara bertahap, SohIB.
+            \n\n
+            Well, upaya itu sudah dicanangkan sejak tahun 2018. Kala itu, Menteri Kominfo, Rudiantara, menyatakan bahwa pemerintah tidak membeda-bedakan masyarakat negara kita yang berkebutuhan khusus atau tidak. Sebab, semuanya memiliki hak dan kewajiban yang sama.
+            \n\n
+            Rudiantara menyatakan bahwa Kementerian Kominfo melalui Badan Aksesibilitas Telekomunikasi dan Informasi juga men-support adanya kegiatan Jambore TIK Disabilitas, yakni kompetisi untuk penyandang disabilitas dari seluruh Indonesia untuk unjuk gigi dalam keahlian dan kompetensi pemanfaatan teknologi informasi dan komunikasi. Wow, keren abis, deh!
+            \n\n
+            Nah, SohIB, di Indonesia, ada dua bahasa isyarat yang digunakan dalam komunitas Tuli. Ada BISINDO (Bahasa Isyarat Indonesia) dan juga SIBI (Sistem Bahasa isyarat Indonesia). Apa perbedaan keduanya?
+            \n\n
+            BISINDO diteliti dan dikembangkan dari Pusat Bahasa Isyarat Indonesia (PUSBISINDO) dan Laboratorium Riset Bahasa Isyarat, Fakultas Ilmu Pengetahuan Budaya, Universitas Indonesia.
+            \n\n
+            Dilansir dari laman resmi PUSBISINDO, versi bahasa ini merupakan cara komunikasi yang munculnya alamiah di kalangan Tuli. Pengguna BISINDO mempunyai variasi gerakan yang sesuai dengan daerah dan budaya Tuli di daerah itu, di antaranya adalah Jakarta, Yogyakarta, Kolak, Bali, Makassar, dan Pare-pare. Mereka akan berkomunikasi dengan gerakan tangan, ekspresi, dan bahasa tubuh.
+            \n\n
+            Berbeda dengan BISINDO yang terbentuk alamiah, SIBI diciptakan oleh mantan kepala Sekolah Luar Biasa (SLB) yang mengadopsi Bahasa Isyarat Amerika, kemudian diresmikan oleh pemerintah. SIBI-lah yang digunakan dan diajarkan di SLB-SLB di Indonesia. Sayangnya, versi bahasa tersebut dianggap lebih kaku dan rumit, apalagi hanya disampaikan dengan gerakan satu tangan.
+        </item>
+        <item>
+            Sebagai bentuk perhatian kepada disabilitas, sebuah yayasan di Gorontalo melakukan pelatihan bagi kaum tunarungu. Kaum tunarungu dilatih agar bisa berbahasa isyarat agar mampu berkomunikasi antar sesama, Minggu (12/3/2023).
+            \n\n
+            Yayasan bernama Hellen Wimberty, ini pun mendapat apresiasi dari Pemerintah Provinsi Gorontalo. Kepala Dinas Kominfotik Rifli Katili memberikan ucapan terima kasih kepada yayasan yang mengagas upaya pelatihan Bahasa Isyarat Indonesia (Bisindo) bagi masyarakat penyandang tunarungu.
+            \n\n
+            “Alhamdulillah yayasan milik Elen Podungge melaksanakan pelatihan Bahasa Isyarat Indonesia ini tentunya luar biasa. Untuk itu, Saya atas nama pemerintah Provinsi Gorontalo menyampaikan apresiasi sekaligus ucapan terima kasih kepada yayasan karena mampu melaksanakan kegiatan yang bermanfaat seperti ini,” kata Rifli.
+            \n\n
+            Rifli menuturkan, apa yang dilakukan patut diapresiasi karena kegiatan sosial kemasyarakatan seperti ini seharusnya dilaksanakan oleh instansi pemerintah. Terlebih pelatihan yang diberikan tersebut tidak dipungut biaya.
+            \n\n
+            Sementara itu, Ketua Yayasan Hellen Wimberty, Elen Podungge mengatakan, pelatihan bahasa isyarat diadakan selama tiga hari dengan latihan yang berisi materi mengenai abjad, angka, tahun, kata tanya, kata sifat, kata benda, serta dialog sehari-hari.
+            \n\n
+            “Kami berharap kegiatan ini dapat berbagi ilmu dengan teman-teman tunarungu Karena bahasa isyarat ini merupakan bahasa teman-teman tunarungu, dan hanya itu yang mereka bisa lakukan, dan hanya ini syarat untuk mereka dapat berkomunikasi,” tutur Elen.
+            \n\n
+            Yayasan Hellen Wimberty Gorontalo terbentuk pada Desember 2022. Yayasan ini melakukan kegiatan layaknya sanggar belajar, dengan memberikan pembinaan kepada anak-anak disabilitas melatih berbagai keterampilan. Contohnya seperti menari, melukis, serta membekali anak-anak tunarungu dengan ilmu agama.
+        </item>
+        <item>
+            Puluhan anak penyandang tuna rungu berkumpul di rumah dinas gubernur Gorontalo guna merayakan Hari Bahasa Isyarat Internasional, yang digelar oleh Pemerintah Provinsi Gorontalo, Minggu (22/9/2019).
+            \n\n
+            Kegiatan ini diinisiasi oleh Lembaga Koordinasi Kesejahteraan Sosial (LKKS) Provinsi Gorontalo , bekerjasama dengan pengurus PKK Provinsi Gorontalo.
+            \n\n
+            Dalam kesempatan tersebut Sophia Bano mewakili Bunda Disabilitas Provinsi Gorontalo menyampaikan, perayaan hari bahasa isyarat internasional ini menunjukkan eksistensi penyandang tuna rungu bahwa tidak ada kesenjangan terhadap orang tuli.
+            \n\n
+            “Mereka ingin menunjukkan kreativitas mereka sebagai bukti bahwa mereka ini bisa. Otomatis hari ini merupakan hari besar mereka dimana mereka bangga berbahasa isyarat, bangga sebagai orang tuli, dan mereka ingin menunjukan eksistensi mereka,” kata Sophia, Minggu (22/9/2019).
+            \n\n
+            Pengurus PKK Pokja 1 ini menambahkan, belajar bahasa isyarat zaman sekarang tidak susah lagi, salah satunya lewat aplikasi youtube. Namun apabila belum paham juga, bisa bergabung dengan sanggar tuna rungu.
+            \n\n
+            Keberadaan sanggar khusus tuna rungu bisa juga menjadi wadah keterampilan untuk para penyandang tuna rungu yang mungkin kedepannya bisa meningkatkan taraf ekonomi mereka.
+            \n\n
+            Seperti diketahui jumlah penyandang tuna rungu di Provinsi Gorontalo sebanyak 1610 orang. Dalam kesempatan itu juga, diserahkan poster bahasa isyarat dari pengurus PKK kepada media TV TVRI, sebagai bentuk sosialisasi bahasa isyarat untuk semua.
+        </item>
+        <item>
+            Dalam kegiatan Smarttren Ramadan, para siswa di SLB Negeri 2 Indramayu yang berada di Kelurahan Lemahmekar, Kecamatan Indramayu, Kabupaten Indramayu diajarkan tentang disiplin ilmu agama. Termasuk belajar mengenal huruf Arab dan mengaji Alquran.
+            \n\n
+            Di tengah keheningan, para siswa tampak serius memperhatikan tangan guru yang membimbing untuk mengenal huruf arab dalam buku iqro. Kemudian jemari tangan para siswa tuna rungu juga dengan jelas turut memperagakan setiap hurufnya.
+            \n\n
+            Kepala SLBN 2 Indramayu Elka Asmartuti menjelaskan bahwa kegiatan rutin ini digelar setiap Ramadan. Dalam pembelajarannya lebih menanamkan nilai budi pekerti kepada para siswa agar bisa diterapkan dalam keseharian.
+            \n\n
+            "Pokonya di bulan Ramadan lebih diintensifkan ke penanaman budi pekerti aja. Dikemas melalui samrttren," ucap Elka Asmartuti kepada detikJabar, Kamis (30/3/2023).
+            \n\n
+            Dalam pengajarannya, pihak sekolah menempatkan sedikitnya 3 guru pembimbing untuk menuntun belajar siswa tuna rungu. Paling tidak, guru memperagakan 3 sampai 5 huruf setiap pertemuan.
+            \n\n
+            "Ada (kesulitan), bahkan hampir sebagian double handicap. Selain tuna rungu kadang tuna grahita juga. Jadi lama untuk memahami. Berbeda ya sama tuna rungu murni yang cenderung lebih cepat," ujarnya.
+            \n\n
+            Elka mencontohkan, progres belajar Fahri salah satu siswa tuna rungu tingkat SD yang sudah bisa mengenal huruf bahkan membaca dalam satu kalimat di buku Iqro.
+            \n\n
+            Selain itu, untuk siswa yang memiliki keterbatasan fisik lain seperti tuna daksa, tuna grahita mereka juga diajarkan membaca dan mengenal huruf Alquran. Khusus siswa tuna netra, mereka diajarkan membaca dengan menggunakan Alquran braile.
+        </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/artikel1</item>
+        <item>@drawable/artikel2</item>
+        <item>@drawable/artikel3</item>
+        <item>@drawable/artikel4</item>
+        <item>@drawable/artikel5</item>
+        <item>@drawable/artikel6</item>
+    </integer-array>
+
+    <string-array name="data_url">
+        <item>https://www.kompas.id/baca/muda/2018/10/09/gerkatin-solo-komunitas-yang-mengajarkan-bahasa-isyarat-untuk-semua-orang</item>
+        <item>https://news.detik.com/berita-jawa-barat/d-3622918/mengenal-komunitas-e-tuli-yang-berjuang-kenalkan-bahasa-isyarat</item>
+        <item>https://sohib.indonesiabaik.id/article/bisindo-dan-sibi-dua-bahasa-isyarat-indonesia-untuk-komunitas-tuli-dLHCj</item>
+        <item>https://www.liputan6.com/regional/read/5231588/asyiknya-melihat-pelatihan-bahasa-isyarat-bagi-kaum-tunarungu</item>
+        <item>https://infopublik.id/kategori/nusantara/375014/rayakan-hari-bahasa-isyarat-anak-tuna-rungu-kumpul-di-rudis-gubernur?show=</item>
+        <item>https://www.detik.com/jabar/berita/d-6646336/kala-siswa-slb-di-indramayu-belajar-mengaji-melalui-bahasa-isyarat</item>
+    </string-array>
+
+    <!--    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-->
+
+<!--    TvScore-->
+    <string name="score1">Woowww! you got a perfect score! </string>
+    <string name="score2">Yeahh! you got an almost perfect score !</string>
+    <string name="score3">Pretty good, but don\'t get complacent just yet</string>
+    <string name="score4">Hey! Don\'t be sad, let\'s try again</string>
+    <string name="score5">Hi! Don\'t be too sad, let\'s study again</string>
+    <string name="score_else">Maybe there was a mistake, try again next time</string>
+
+    <string name="quote1">\"In the world of sign language, facial expressions are the color palette of emotions, and body movements are the choreography of words dancing on a speechless stage.\"</string>
+    <string name="what_letter_does_the_following_picture_form">What letter does the following picture form?</string>
+    <string-array name="quotes">
+        <item>\"In the world of sign language, facial expressions are the color palette of emotions, and body movements are the choreography of words dancing on a speechless stage."</item>
+        <item>\"Sign language is a silent dance, where every hand gesture is a lyric that stretches meaning in unspoken spaces.\"</item>
+        <item>\"Sign language is a silent symphony, where the harmony of movement and melodic expression builds a soundless bridge.\"</item>
+        <item>\"Like a pen dancing on paper, the hands that speak in sign language create an indescribable painting of words.\"</item>
+        <item>\"In the world of sign language, the eyes are the windows to the soul, celebrating flavors and emotions that words cannot express.\"</item>
+        <item>\"Sign language is an art that engages the heart, a place where messages are conveyed with the beauty of movement that creates a dance of meaning.\"</item>
+        <item>\"Each sign is a series of light touches, writing stories in the air with writing that only the sensitive heart understands.\"</item>
+        <item>\"Sign language is the language of love without words, where communication is not just about what is said, but about what is felt.\"</item>
+        <item>\"In the movement of sign language, words are embroidered into a beautiful fabric, forming a narrative that flows like a silent river that embraces all nuances.\"</item>
+    </string-array>
+
+
+
+    <string name="success_title">Good Job!</string>
+    <string name="nothing_desc">maybe there\'s something wrong</string>
+    <string name="nothing_title">Sorry!</string>
+
+<!--    Label Title Numbber-->
+    <string name="l_0">You can form the number 0</string>
+    <string name="l_01">You can form the number 1</string>
+    <string name="l_02">You can form the number 2</string>
+    <string name="l_03">You can form the number 3</string>
+    <string name="l_04">You can form the number 4</string>
+    <string name="l_05">You can form the number 5</string>
+    <string name="l_06">You can form the number 6</string>
+    <string name="l_07">You can form the number 7</string>
+    <string name="l_08">You can form the number 8</string>
+    <string name="l_09">You can form the number 9</string>
+
+<!--    Label Tittle Letter-->
+
+    <string name="l_a">You can form the letter A</string>
+    <string name="l_b">You can form the letter B</string>
+    <string name="l_c">You can form the letter C</string>
+    <string name="l_d">You can form the letter D</string>
+    <string name="l_e">You can form the letter E</string>
+    <string name="l_f">You can form the letter F</string>
+    <string name="l_g">You can form the letter G</string>
+    <string name="l_h">You can form the letter H</string>
+    <string name="l_i">You can form the letter I</string>
+    <string name="l_j">You can form the letter J</string>
+    <string name="l_k">You can form the letter K</string>
+    <string name="l_l">You can form the letter L</string>
+    <string name="l_m">You can form the letter M</string>
+    <string name="l_n">You can form the letter N</string>
+    <string name="l_o">You can form the letter O</string>
+    <string name="l_p">You can form the letter P</string>
+    <string name="l_q">You can form the letter Q</string>
+    <string name="l_r">You can form the letter R</string>
+    <string name="l_s">You can form the letter S</string>
+    <string name="l_t">You can form the letter T</string>
+    <string name="l_u">You can form the letter U</string>
+    <string name="l_v">You can form the letter V</string>
+    <string name="l_w">You can form the letter W</string>
+    <string name="l_x">You can form the letter X</string>
+    <string name="l_y">You can form the letter Y</string>
+    <string name="l_z">You can form the letter Z</string>
+
+</resources>

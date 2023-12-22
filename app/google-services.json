@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503772067913",
+    "project_id": "vsl-auth-88e0b",
+    "storage_bucket": "vsl-auth-88e0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503772067913:android:1c70e237147905da476798",
+        "android_client_info": {
+          "package_name": "com.capstone.vsl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHGRBb60EfPh8RBSWi6nqZZFC8oyl9hrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
